@@ -1,4 +1,4 @@
-# chudnovsky.py
+
 from decimal import Decimal, getcontext
 import math
 
