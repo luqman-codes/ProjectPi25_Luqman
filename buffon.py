@@ -3,6 +3,8 @@ import random
 import math
 
 def buffon_needle(num_throws, needle_length=1.0, line_distance=1.0):
+
+
     hits = 0
 
     for _ in range(num_throws):
